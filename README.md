@@ -1,4 +1,4 @@
-# TestGame
+# TestConsoleGame
 
 An incomplete game I worked on in C# built in a console window. 
 
